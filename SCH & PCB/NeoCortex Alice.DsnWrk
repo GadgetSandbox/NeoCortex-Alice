@@ -1,0 +1,8 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=NeoCortex Alice.PrjPCB
+[Project2]
+ProjectPath=..\..\..\..\Workspace\Altium Library\altium_lib_1.LibPkg
+[Project3]
+ProjectPath=..\..\..\..\Workspace\Altium Library\Old P-cad lib\mtq_pcad_lib1.LibPkg
